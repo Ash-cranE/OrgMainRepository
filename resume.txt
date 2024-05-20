@@ -3,3 +3,7 @@ RESUME
 CERTIFICATION : License to kill(MI6)
 ACTIVITIES : Burned down several orphanages and headqurters
 SKILLS : Pyromancy, unfeeling sociopathism
+NAME : Armin Altenberg
+AGE : 273
+EXPERIENCE : 1 year of internship at Prutel institution.
+EDUCATION : graduated Hogwart Uni.
