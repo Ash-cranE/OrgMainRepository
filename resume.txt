@@ -1,3 +1,6 @@
 RESUME
 
-This is a resume created by Armin Altenberg of the Prutel institution.
+NAME : Armin Altenberg
+AGE : 273
+EXPERIENCE : 1 year of internship at Prutel institution.
+EDUCATION : graduated Hogwart Uni.
